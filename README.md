@@ -5,7 +5,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCf96CJ6TEAk0jUELJPntJ3w?sub_confirmation=1) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCf96CJ6TEAk0jUELJPntJ3w?sub_confirmation=1)
 
 A Software Engineer specializing in Blockchain Technology and JavaScript. Professional experience with the technologies listed in the **toolbox** below.
-I am CEO of **Netixsol** Blockchain Based Solution Provider Company, Currently Working on ETHEREUM (https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png), Binance Smart Chain (https://avatars.githubusercontent.com/u/45615063?s=200&v=4)
+I am CEO of **Netixsol** Blockchain Based Solution Provider Company, Currently Working on  [![ETHEREUM](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png), Binance Smart Chain (https://avatars.githubusercontent.com/u/45615063?s=200&v=4)
 
 I create tech content, mostly about Blockchain Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 

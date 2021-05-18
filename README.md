@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeniz/master/wave.gif" width="30px"> I am Mirza Usman
+### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px"> I am Mirza Usman
 
 <!--
 **mirzausman371/mirzausman371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
